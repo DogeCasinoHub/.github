@@ -1,7 +1,5 @@
 DogeCasinoHub
 
-<img width="128" height="128" src="https://raw.githubusercontent.com/bro-pixel11/DogeCasino/main/logo.png">
-
 Neon crypto casino ecosystem.
 
 Experimental gambling UI, crypto style interfaces and web casino concepts.

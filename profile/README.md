@@ -12,7 +12,7 @@ Projects
 
 Modern neon-style crypto casino interface.
 
-🌐 https://bro-pixel11.github.io/DogeCasino/
+🌐 https://dogecasinohub.github.io/DogeCasino/
 
 ⚠️ Early development version.
 

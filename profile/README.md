@@ -1,20 +1,20 @@
-DogeCasinoHub
+🎰 DogeCasinoHub
 
 Neon crypto casino ecosystem.
 
-Experimental gambling UI, crypto style interfaces and web casino concepts.
+Experimental gambling UI, cyberpunk casino concepts and stylish web projects.
 
 ⸻
 
 Projects
 
-🎰 DogeCasino
+🎲 DogeCasino
 
 Modern neon-style crypto casino interface.
 
 🌐 https://bro-pixel11.github.io/DogeCasino/
 
-⚠️ Project is currently in early development.
+⚠️ Early development version.
 
 ⸻
 
@@ -29,4 +29,4 @@ Stack
 
 Vision
 
-Building stylish experimental casino-themed web experiences with neon cyberpunk aesthetics.
+Building experimental casino-themed web experiences with modern neon aesthetics.
